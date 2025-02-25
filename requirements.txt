@@ -4,3 +4,8 @@ keras
 pandas 
 numpy
 seaborn
+flask
+gunicorn
+pandas
+numpy
+scikit-learn
